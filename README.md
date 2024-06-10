@@ -1,5 +1,5 @@
 # ClientL-ger
-Ceci est un document expliquant le contexte du client léger destiné à être présenté lors de l'examen du BTS SIO SLAM Session 2024 érpeuve E5.
+Ceci est un document expliquant le contexte du client léger destiné à être présenté lors de l'examen du BTS SIO SLAM Session 2024 épreuve E5.
 Le contexte est retrouvable éventuellement sur la fiche nommé BTS SIO SLAM 2A Paul Havard Fiche E5 Client léger rendu au jury:
 1.	Contexte 
   La société Orange a récemment développé un service d’intervention qui consiste a réparé ou vérifié un appareil apporté par les clients. 
